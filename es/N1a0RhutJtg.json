@@ -1,0 +1,312 @@
+{
+  "video_id": "N1a0RhutJtg",
+  "title": "¿De dónde surgió el idioma español? - CuriosaMente 73",
+  "json": [
+    {
+      "index": 1,
+      "start_time": 190.0,
+      "end_time": 6400.0,
+      "text": "El español es una de las lenguas más importantes\ndel mundo: es el segundo lugar por número"
+    },
+    {
+      "index": 2,
+      "start_time": 6400.0,
+      "end_time": 11269.0,
+      "text": "de hablantes, y se ha dicho que “es el idioma\npara hablar con Dios” pero..."
+    },
+    {
+      "index": 3,
+      "start_time": 11269.0,
+      "end_time": 15879.0,
+      "text": "¿De dónde viene el español?\nLos lingüistas no saben con certeza cómo"
+    },
+    {
+      "index": 4,
+      "start_time": 15879.0,
+      "end_time": 21060.0,
+      "text": "surgió el lenguaje humano. Pero sí han explicado\nque los idiomas se empezaron a diferenciar"
+    },
+    {
+      "index": 5,
+      "start_time": 21060.0,
+      "end_time": 26050.0,
+      "text": "cuando las poblaciones se separaban. El hecho\nde vivir en lugares aislados, con diferente"
+    },
+    {
+      "index": 6,
+      "start_time": 26050.0,
+      "end_time": 32450.0,
+      "text": "clima, animales, vegetación y diferentes\nvecinos hizo que a partir de pequeñas variaciones"
+    },
+    {
+      "index": 7,
+      "start_time": 32450.000000000004,
+      "end_time": 37149.0,
+      "text": "de dialecto se crearan idiomas completamente\ndiferentes."
+    },
+    {
+      "index": 8,
+      "start_time": 37149.0,
+      "end_time": 41870.0,
+      "text": "Los lingüistas notaron que muchas lenguas\ntienen características similares en su gramática"
+    },
+    {
+      "index": 9,
+      "start_time": 41870.0,
+      "end_time": 48300.0,
+      "text": "y vocabulario, como si estuvieran emparentadas.\nAsí, agruparon las lenguas en familias distribuidas"
+    },
+    {
+      "index": 10,
+      "start_time": 48300.0,
+      "end_time": 53559.0,
+      "text": "por el mundo. Y como familias que son, es\nposible trazar un árbol genealógico, que"
+    },
+    {
+      "index": 11,
+      "start_time": 53559.0,
+      "end_time": 60229.0,
+      "text": "nos indicaría que hace miles de años, había\nmenos idiomas. El español (llamado más propiamente"
+    },
+    {
+      "index": 12,
+      "start_time": 60229.0,
+      "end_time": 65280.0,
+      "text": "“castellano”, ya verás por qué) forma\nparte de la familia Indo-europea."
+    },
+    {
+      "index": 13,
+      "start_time": 65280.0,
+      "end_time": 71550.0,
+      "text": "En la península Ibérica (ahora España),\nhasta antes del siglo III antes de Cristo,"
+    },
+    {
+      "index": 14,
+      "start_time": 71550.0,
+      "end_time": 78290.0,
+      "text": "no se hablaba español. Los habitantes eran\niberos, celtas, celtíberos, tartesios y hasta"
+    },
+    {
+      "index": 15,
+      "start_time": 78290.0,
+      "end_time": 84490.0,
+      "text": "fenicios y griegos. De estas lenguas, llamadas\nde sustrato, tenemos por ejemplo la diferencia"
+    },
+    {
+      "index": 16,
+      "start_time": 84490.0,
+      "end_time": 90030.0,
+      "text": "entre los conceptos “ser” y “estar”\nque no existe en otros idiomas y que proviene"
+    },
+    {
+      "index": 17,
+      "start_time": 90030.0,
+      "end_time": 96460.0,
+      "text": "del celta, o palabras como “gancho”, o\n“colmena”. Del ibérico viene “barranco”"
+    },
+    {
+      "index": 18,
+      "start_time": 96460.0,
+      "end_time": 102990.0,
+      "text": "y del vasco “izquierda” o “chaparro”.\nEntre el siglo III y el I antes de Cristo,"
+    },
+    {
+      "index": 19,
+      "start_time": 102990.0,
+      "end_time": 108720.0,
+      "text": "el Imperio Romano conquistó toda la región\nalrededor del mediterráneo, imponiendo su"
+    },
+    {
+      "index": 20,
+      "start_time": 108720.0,
+      "end_time": 116380.0,
+      "text": "lengua: el latín. De esa lengua romana surgieron\nlas lenguas romances: italiano, francés,"
+    },
+    {
+      "index": 21,
+      "start_time": 116380.0,
+      "end_time": 122741.0,
+      "text": "rumano, portugués, catalán y español.\nAl mezclarse con las lenguas locales, el latín"
+    },
+    {
+      "index": 22,
+      "start_time": 122741.0,
+      "end_time": 128570.0,
+      "text": "vulgar (es decir, el latín que hablaba el\npueblos, no el idioma culto en el que se escribían"
+    },
+    {
+      "index": 23,
+      "start_time": 128570.0,
+      "end_time": 135360.0,
+      "text": "los libros) formó varias lenguas, entre ellas\nla de la región de Castilla: el castellano."
+    },
+    {
+      "index": 24,
+      "start_time": 135360.0,
+      "end_time": 141030.0,
+      "text": "A partir de invasiones bárbaras se incorporaron\npalabras germánicas como “guerra” o “yelmo”."
+    },
+    {
+      "index": 25,
+      "start_time": 141030.0,
+      "end_time": 146990.0,
+      "text": "Y cuando los árabes conquistaron la península\ny se quedaron como 700 años, crearon un conjunto"
+    },
+    {
+      "index": 26,
+      "start_time": 146990.0,
+      "end_time": 153490.0,
+      "text": "de lenguas llamadas “mozárabes” y dejaron\nen el castellano más de 4000 vocablos, como"
+    },
+    {
+      "index": 27,
+      "start_time": 153490.0,
+      "end_time": 156500.0,
+      "text": "“almohada”, “aceite” o “ajedrez”."
+    },
+    {
+      "index": 28,
+      "start_time": 156520.0,
+      "end_time": 163450.0,
+      "text": "En el siglo XIII, Alfonso Décimo, “El sabio”,\nintelectual y promotor de las artes, estandarizó"
+    },
+    {
+      "index": 29,
+      "start_time": 163450.0,
+      "end_time": 169700.0,
+      "text": "lo que ahora conocemos como castellano medieval,\ndándole importancia al dialecto de Toledo."
+    },
+    {
+      "index": 30,
+      "start_time": 169700.0,
+      "end_time": 177900.0,
+      "text": "En 1492 los reyes católicos Isabel I de Castilla\ny Fernando II de Aragón se unen y consiguen"
+    },
+    {
+      "index": 31,
+      "start_time": 177900.0,
+      "end_time": 183840.0,
+      "text": "expulsar a los árabes. Hacen del castellano\nel idioma oficial, los eruditos unifican su"
+    },
+    {
+      "index": 32,
+      "start_time": 183840.0,
+      "end_time": 189840.0,
+      "text": "gramática y su ortografía, y lo expanden\npor todo el país. En el Siglo de Oro, surge"
+    },
+    {
+      "index": 33,
+      "start_time": 189840.0,
+      "end_time": 196400.0,
+      "text": "el “español áurico” que, aunque ya unificado,\naún presenta muchas diferencias regionales."
+    },
+    {
+      "index": 34,
+      "start_time": 196400.0,
+      "end_time": 201290.0,
+      "text": "Por ejemplo, en la mayor parte de España\nla “ce” y la “zeta” tenían pronunciación"
+    },
+    {
+      "index": 35,
+      "start_time": 201290.0,
+      "end_time": 206170.0,
+      "text": "diferente a la “ese”, pero no en las Islas\nCanarias ni en Andalucía, donde se pronuncian"
+    },
+    {
+      "index": 36,
+      "start_time": 206170.0,
+      "end_time": 212530.0,
+      "text": "“sss”. Y Sevilla, en Andalucía, era la\npuerta de enlace de donde partían los conquistadores"
+    },
+    {
+      "index": 37,
+      "start_time": 212530.0,
+      "end_time": 217800.0,
+      "text": "hacia... ¡América! Muchos habían nacido\nahí y la mayoría habían pasado un buen"
+    },
+    {
+      "index": 38,
+      "start_time": 217800.0,
+      "end_time": 223161.0,
+      "text": "tiempo viviendo en la región. Por eso los\nlatinoamericanos decimos “servesa” y no"
+    },
+    {
+      "index": 39,
+      "start_time": 223161.0,
+      "end_time": 227110.0,
+      "text": "“cerveza”.\nCuando los españoles conquistan América,"
+    },
+    {
+      "index": 40,
+      "start_time": 227110.0,
+      "end_time": 231950.0,
+      "text": "el castellano se mezcló con las lenguas de\nsustrato de cada región. México aportó"
+    },
+    {
+      "index": 41,
+      "start_time": 231950.0,
+      "end_time": 238080.0,
+      "text": "vocablos del náhuatl, como “tamal”, “chicle”,\no “tomate”. El quechua de Perú y Bolivia"
+    },
+    {
+      "index": 42,
+      "start_time": 238080.0,
+      "end_time": 243870.0,
+      "text": "aportó “caucho”, “cóndor” y “papa”.\nY sin las lenguas antillanas, como el Taíno,"
+    },
+    {
+      "index": 43,
+      "start_time": 243870.0,
+      "end_time": 249739.0,
+      "text": "no tendríamos ni “barbacoa”, ni “canoa”\nni “hamaca”... y se discute si la palabra"
+    },
+    {
+      "index": 44,
+      "start_time": 249739.0,
+      "end_time": 256410.0,
+      "text": "“huracán” es taína o maya.\nLas lenguas están vivas y en constante evolución."
+    },
+    {
+      "index": 45,
+      "start_time": 256410.00000000003,
+      "end_time": 261340.00000000003,
+      "text": "Actualmente no es raro que incluyamos palabras\ndel inglés, o que el inglés tome prestados"
+    },
+    {
+      "index": 46,
+      "start_time": 261339.99999999997,
+      "end_time": 267400.0,
+      "text": "vocablos del español, y los mismos intercambios\nsuceden con otros idiomas. Por ejemplo: la"
+    },
+    {
+      "index": 47,
+      "start_time": 267400.0,
+      "end_time": 273540.0,
+      "text": "palabra “tiza” es de origen náhuatl y\nse usa en todos los países hispanohablantes…"
+    },
+    {
+      "index": 48,
+      "start_time": 273540.0,
+      "end_time": 280040.0,
+      "text": "menos en México, donde al mismo objeto le\nllamamos “gis” ¡que viene del latín!"
+    },
+    {
+      "index": 49,
+      "start_time": 280040.0,
+      "end_time": 283300.0,
+      "text": "¡Curiosamente!\nSi te gustó este video, sería genial que"
+    },
+    {
+      "index": 50,
+      "start_time": 283300.0,
+      "end_time": 288390.0,
+      "text": "lo compartieras. Tu apoyo a través de Patreon\nes muy agradecido. ¿Ya te suscribiste a nuestro"
+    },
+    {
+      "index": 51,
+      "start_time": 288390.0,
+      "end_time": 296659.0,
+      "text": "canal?"
+    }
+  ]
+}
