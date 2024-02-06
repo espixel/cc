@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "VclriP3lUWU",
+    "title": "西班牙文發音 - ba 音節 | ba - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 903,
+            "end_time": 3696,
+            "text": "b-a"
+        },
+        {
+            "index": 2,
+            "start_time": 3788,
+            "end_time": 5788,
+            "text": "ba"
+        },
+        {
+            "index": 3,
+            "start_time": 5966,
+            "end_time": 7966,
+            "text": "bate"
+        },
+        {
+            "index": 4,
+            "start_time": 8477,
+            "end_time": 10477,
+            "text": "ballena"
+        },
+        {
+            "index": 5,
+            "start_time": 11040,
+            "end_time": 13040,
+            "text": "babero"
+        },
+        {
+            "index": 6,
+            "start_time": 13537,
+            "end_time": 15537,
+            "text": "banano"
+        }
+    ]
+}
