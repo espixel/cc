@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "H2rsQ3e7OWs",
+    "title": "西班牙文發音 - be 音節 | be - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 909,
+            "end_time": 3702,
+            "text": "b-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3941,
+            "end_time": 5941,
+            "text": "be"
+        },
+        {
+            "index": 3,
+            "start_time": 6332,
+            "end_time": 8332,
+            "text": "bebé"
+        },
+        {
+            "index": 4,
+            "start_time": 8736,
+            "end_time": 10736,
+            "text": "besar"
+        },
+        {
+            "index": 5,
+            "start_time": 11200,
+            "end_time": 13200,
+            "text": "bellota"
+        },
+        {
+            "index": 6,
+            "start_time": 13744,
+            "end_time": 15744,
+            "text": "berenjena"
+        }
+    ]
+}
