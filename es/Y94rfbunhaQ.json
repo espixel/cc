@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "Y94rfbunhaQ",
+    "title": "西班牙文發音 - ji 音節 | ji - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 753,
+            "end_time": 3453,
+            "text": "j-i"
+        },
+        {
+            "index": 2,
+            "start_time": 3708,
+            "end_time": 5708,
+            "text": "ji"
+        },
+        {
+            "index": 3,
+            "start_time": 6312,
+            "end_time": 8312,
+            "text": "jirafa"
+        },
+        {
+            "index": 4,
+            "start_time": 8925,
+            "end_time": 10925,
+            "text": "jicama"
+        },
+        {
+            "index": 5,
+            "start_time": 11677,
+            "end_time": 13677,
+            "text": "jitomate"
+        },
+        {
+            "index": 6,
+            "start_time": 14406,
+            "end_time": 16406,
+            "text": "jinete"
+        }
+    ]
+}

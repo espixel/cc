@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "8gGvJ1JUEWE",
+    "title": "西班牙文發音 - gue 音節 | gue - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 893,
+            "end_time": 3593,
+            "text": "gu-e"
+        },
+        {
+            "index": 2,
+            "start_time": 4152,
+            "end_time": 6152,
+            "text": "gue"
+        },
+        {
+            "index": 3,
+            "start_time": 6449,
+            "end_time": 8449,
+            "text": "manguera"
+        },
+        {
+            "index": 4,
+            "start_time": 9048,
+            "end_time": 11048,
+            "text": "guepardo"
+        },
+        {
+            "index": 5,
+            "start_time": 11746,
+            "end_time": 13746,
+            "text": "juguetes"
+        },
+        {
+            "index": 6,
+            "start_time": 14292,
+            "end_time": 16292,
+            "text": "hoguera"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "hNTEnSFOUOM",
+    "title": "西班牙文發音 - re 音節 | re - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 106,
+            "end_time": 2681,
+            "text": "r-e"
+        },
+        {
+            "index": 2,
+            "start_time": 2901,
+            "end_time": 4901,
+            "text": "re"
+        },
+        {
+            "index": 3,
+            "start_time": 5481,
+            "end_time": 7481,
+            "text": "remolacha"
+        },
+        {
+            "index": 4,
+            "start_time": 8257,
+            "end_time": 10257,
+            "text": "rebaño"
+        },
+        {
+            "index": 5,
+            "start_time": 10807,
+            "end_time": 12807,
+            "text": "reloj"
+        },
+        {
+            "index": 6,
+            "start_time": 13406,
+            "end_time": 15208,
+            "text": "regalo"
+        }
+    ]
+}

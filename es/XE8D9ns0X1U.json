@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "XE8D9ns0X1U",
+    "title": "西班牙文發音 - ru 音節 | ru - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 524,
+            "end_time": 3224,
+            "text": "r-u"
+        },
+        {
+            "index": 2,
+            "start_time": 3417,
+            "end_time": 5417,
+            "text": "ru"
+        },
+        {
+            "index": 3,
+            "start_time": 5903,
+            "end_time": 7903,
+            "text": "rubí"
+        },
+        {
+            "index": 4,
+            "start_time": 8461,
+            "end_time": 10461,
+            "text": "rubia"
+        },
+        {
+            "index": 5,
+            "start_time": 11002,
+            "end_time": 13002,
+            "text": "ruta"
+        },
+        {
+            "index": 6,
+            "start_time": 13550,
+            "end_time": 15550,
+            "text": "rugir"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "d4XhERXYsq4",
+    "title": "西班牙文發音 - je 音節 | je - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 867,
+            "end_time": 3567,
+            "text": "j-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3904,
+            "end_time": 5904,
+            "text": "je"
+        },
+        {
+            "index": 3,
+            "start_time": 6296,
+            "end_time": 8296,
+            "text": "jeta"
+        },
+        {
+            "index": 4,
+            "start_time": 8767,
+            "end_time": 10767,
+            "text": "garaje"
+        },
+        {
+            "index": 5,
+            "start_time": 11399,
+            "end_time": 13399,
+            "text": "Jesús"
+        },
+        {
+            "index": 6,
+            "start_time": 14030,
+            "end_time": 16030,
+            "text": "jeringa"
+        }
+    ]
+}

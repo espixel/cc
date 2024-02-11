@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "vqu64Zuk96g",
+    "title": "西班牙文發音 - rre 音節 | rre - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 762,
+            "end_time": 3462,
+            "text": "rr-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3849,
+            "end_time": 5849,
+            "text": "rre"
+        },
+        {
+            "index": 3,
+            "start_time": 6461,
+            "end_time": 8461,
+            "text": "carretera"
+        },
+        {
+            "index": 4,
+            "start_time": 9052,
+            "end_time": 11052,
+            "text": "torre"
+        },
+        {
+            "index": 5,
+            "start_time": 11638,
+            "end_time": 13638,
+            "text": "birrete"
+        },
+        {
+            "index": 6,
+            "start_time": 14416,
+            "end_time": 16416,
+            "text": "corredor"
+        }
+    ]
+}

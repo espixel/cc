@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "qmBX88yUyLQ",
+    "title": "西班牙文發音 - rru 音節 | rru - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 1135,
+            "end_time": 3835,
+            "text": "rr-u"
+        },
+        {
+            "index": 2,
+            "start_time": 4466,
+            "end_time": 6466,
+            "text": "rru"
+        },
+        {
+            "index": 3,
+            "start_time": 7058,
+            "end_time": 9058,
+            "text": "arrugas"
+        },
+        {
+            "index": 4,
+            "start_time": 9703,
+            "end_time": 11703,
+            "text": "carrusel"
+        },
+        {
+            "index": 5,
+            "start_time": 12503,
+            "end_time": 14503,
+            "text": "serrucho"
+        },
+        {
+            "index": 6,
+            "start_time": 15273,
+            "end_time": 17273,
+            "text": "arrullar"
+        }
+    ]
+}

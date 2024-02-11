@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "eeWyRP-sGHw",
+    "title": "西班牙文發音 - mu 音節 | mu - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 1027,
+            "end_time": 3727,
+            "text": "m-u"
+        },
+        {
+            "index": 2,
+            "start_time": 3752,
+            "end_time": 5752,
+            "text": "mu"
+        },
+        {
+            "index": 3,
+            "start_time": 6158,
+            "end_time": 8158,
+            "text": "mula"
+        },
+        {
+            "index": 4,
+            "start_time": 8727,
+            "end_time": 10727,
+            "text": "muletas"
+        },
+        {
+            "index": 5,
+            "start_time": 11369,
+            "end_time": 13369,
+            "text": "música"
+        },
+        {
+            "index": 6,
+            "start_time": 13920,
+            "end_time": 15920,
+            "text": "muñeca"
+        }
+    ]
+}

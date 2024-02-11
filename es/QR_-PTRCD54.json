@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "QR_-PTRCD54",
+    "title": "西班牙文發音 - rri 音節 | rri - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 729,
+            "end_time": 3429,
+            "text": "rr-i"
+        },
+        {
+            "index": 2,
+            "start_time": 4009,
+            "end_time": 6009,
+            "text": "rri"
+        },
+        {
+            "index": 3,
+            "start_time": 6460,
+            "end_time": 8460,
+            "text": "perrito"
+        },
+        {
+            "index": 4,
+            "start_time": 8999,
+            "end_time": 10999,
+            "text": "parrilla"
+        },
+        {
+            "index": 5,
+            "start_time": 11690,
+            "end_time": 13690,
+            "text": "zorrillo"
+        },
+        {
+            "index": 6,
+            "start_time": 14408,
+            "end_time": 16408,
+            "text": "popurrí"
+        }
+    ]
+}

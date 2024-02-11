@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "_rA9oJHO8sk",
+    "title": "西班牙文發音 - lo 音節 | lo - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 859,
+            "end_time": 3559,
+            "text": "l-o"
+        },
+        {
+            "index": 2,
+            "start_time": 3630,
+            "end_time": 5630,
+            "text": "lo"
+        },
+        {
+            "index": 3,
+            "start_time": 5910,
+            "end_time": 7910,
+            "text": "lobo"
+        },
+        {
+            "index": 4,
+            "start_time": 8285,
+            "end_time": 10285,
+            "text": "loma"
+        },
+        {
+            "index": 5,
+            "start_time": 10698,
+            "end_time": 12698,
+            "text": "paloma"
+        },
+        {
+            "index": 6,
+            "start_time": 13208,
+            "end_time": 15208,
+            "text": "loro"
+        }
+    ]
+}

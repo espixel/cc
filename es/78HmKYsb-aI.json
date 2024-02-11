@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "78HmKYsb-aI",
+    "title": "西班牙文發音 - nu 音節 | nu - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 958,
+            "end_time": 3658,
+            "text": "n-u"
+        },
+        {
+            "index": 2,
+            "start_time": 3763,
+            "end_time": 5763,
+            "text": "nu"
+        },
+        {
+            "index": 3,
+            "start_time": 6194,
+            "end_time": 8194,
+            "text": "números"
+        },
+        {
+            "index": 4,
+            "start_time": 8649,
+            "end_time": 10649,
+            "text": "nudo"
+        },
+        {
+            "index": 5,
+            "start_time": 10975,
+            "end_time": 12975,
+            "text": "nube"
+        },
+        {
+            "index": 6,
+            "start_time": 13415,
+            "end_time": 15415,
+            "text": "nutria"
+        }
+    ]
+}

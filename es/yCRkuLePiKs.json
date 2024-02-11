@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "yCRkuLePiKs",
+    "title": "西班牙文發音 - ra 音節 | ra - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 126,
+            "end_time": 2701,
+            "text": "r-a"
+        },
+        {
+            "index": 2,
+            "start_time": 2726,
+            "end_time": 4726,
+            "text": "ra"
+        },
+        {
+            "index": 3,
+            "start_time": 5002,
+            "end_time": 7002,
+            "text": "rata"
+        },
+        {
+            "index": 4,
+            "start_time": 7496,
+            "end_time": 9496,
+            "text": "rana"
+        },
+        {
+            "index": 5,
+            "start_time": 10022,
+            "end_time": 12022,
+            "text": "ramo"
+        },
+        {
+            "index": 6,
+            "start_time": 12593,
+            "end_time": 14316,
+            "text": "rayo"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "sM6SNnoKqVo",
+    "title": "西班牙文發音 - mi 音節 | mi - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 1002,
+            "end_time": 3702,
+            "text": "m-i"
+        },
+        {
+            "index": 2,
+            "start_time": 4201,
+            "end_time": 6201,
+            "text": "mi"
+        },
+        {
+            "index": 3,
+            "start_time": 6575,
+            "end_time": 8575,
+            "text": "mitón"
+        },
+        {
+            "index": 4,
+            "start_time": 9035,
+            "end_time": 11035,
+            "text": "misa"
+        },
+        {
+            "index": 5,
+            "start_time": 11564,
+            "end_time": 13564,
+            "text": "camisa"
+        },
+        {
+            "index": 6,
+            "start_time": 14254,
+            "end_time": 16254,
+            "text": "amigos"
+        }
+    ]
+}

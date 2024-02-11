@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "1pyeOivYw4I",
+    "title": "西班牙文發音 - le 音節 | le - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 960,
+            "end_time": 3660,
+            "text": "l-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3855,
+            "end_time": 5855,
+            "text": "le"
+        },
+        {
+            "index": 3,
+            "start_time": 6162,
+            "end_time": 8162,
+            "text": "leche"
+        },
+        {
+            "index": 4,
+            "start_time": 8898,
+            "end_time": 10898,
+            "text": "salero"
+        },
+        {
+            "index": 5,
+            "start_time": 11507,
+            "end_time": 13507,
+            "text": "leño"
+        },
+        {
+            "index": 6,
+            "start_time": 14125,
+            "end_time": 16125,
+            "text": "letras"
+        }
+    ]
+}

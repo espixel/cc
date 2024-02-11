@@ -1,0 +1,37 @@
+﻿{
+    "video_id": "ugBpB3JVf7c",
+    "title": "西班牙文發音 - fe 音節 | fe - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "start_time": 1002.33333333333,
+            "end_time": 3702.33333333333,
+            "text": "f-e"
+        },
+        {
+            "start_time": 3881,
+            "end_time": 5881,
+            "text": "fe"
+        },
+        {
+            "start_time": 6498,
+            "end_time": 8498,
+            "text": "felinos"
+        },
+        {
+            "start_time": 9134,
+            "end_time": 11134,
+            "text": "fecha"
+        },
+        {
+            "start_time": 11759,
+            "end_time": 13759,
+            "text": "feliz"
+        },
+        {
+            "start_time": 14363,
+            "end_time": 16363,
+            "text": "feroz"
+        }
+    ]
+}

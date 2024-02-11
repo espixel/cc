@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "ve8VIheXxms",
+    "title": "西班牙文發音 - pu 音節 | pu - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 822,
+            "end_time": 3522,
+            "text": "p-u"
+        },
+        {
+            "index": 2,
+            "start_time": 3547,
+            "end_time": 5547,
+            "text": "pu"
+        },
+        {
+            "index": 3,
+            "start_time": 5749,
+            "end_time": 7749,
+            "text": "pupitre"
+        },
+        {
+            "index": 4,
+            "start_time": 8163,
+            "end_time": 10163,
+            "text": "puño"
+        },
+        {
+            "index": 5,
+            "start_time": 10503,
+            "end_time": 12503,
+            "text": "apurado"
+        },
+        {
+            "index": 6,
+            "start_time": 12852,
+            "end_time": 14852,
+            "text": "puma"
+        }
+    ]
+}

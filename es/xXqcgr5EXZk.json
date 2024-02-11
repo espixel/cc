@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "xXqcgr5EXZk",
+    "title": "西班牙文發音 - ro 音節 | ro - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 545,
+            "end_time": 3245,
+            "text": "r-o"
+        },
+        {
+            "index": 2,
+            "start_time": 3417,
+            "end_time": 5417,
+            "text": "ro"
+        },
+        {
+            "index": 3,
+            "start_time": 5903,
+            "end_time": 7903,
+            "text": "rojo"
+        },
+        {
+            "index": 4,
+            "start_time": 8402,
+            "end_time": 10402,
+            "text": "rosa"
+        },
+        {
+            "index": 5,
+            "start_time": 10852,
+            "end_time": 12852,
+            "text": "ropa"
+        },
+        {
+            "index": 6,
+            "start_time": 13405,
+            "end_time": 15405,
+            "text": "rocas"
+        }
+    ]
+}

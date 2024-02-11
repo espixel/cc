@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "OtMszhPYBCY",
+    "title": "西班牙文發音 - su 音節 | su - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 998,
+            "end_time": 3698,
+            "text": "s-u"
+        },
+        {
+            "index": 2,
+            "start_time": 3907,
+            "end_time": 5907,
+            "text": "su"
+        },
+        {
+            "index": 3,
+            "start_time": 6307,
+            "end_time": 8307,
+            "text": "suma"
+        },
+        {
+            "index": 4,
+            "start_time": 8704,
+            "end_time": 10704,
+            "text": "basura"
+        },
+        {
+            "index": 5,
+            "start_time": 11109,
+            "end_time": 13109,
+            "text": "sudar"
+        },
+        {
+            "index": 6,
+            "start_time": 13584,
+            "end_time": 15584,
+            "text": "subir"
+        }
+    ]
+}

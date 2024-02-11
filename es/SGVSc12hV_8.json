@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "SGVSc12hV_8",
+    "title": "西班牙文發音 - ni 音節 | ni - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 906,
+            "end_time": 3606,
+            "text": "n-i"
+        },
+        {
+            "index": 2,
+            "start_time": 4091,
+            "end_time": 6091,
+            "text": "ni"
+        },
+        {
+            "index": 3,
+            "start_time": 6635,
+            "end_time": 8635,
+            "text": "niño"
+        },
+        {
+            "index": 4,
+            "start_time": 9145,
+            "end_time": 11145,
+            "text": "nivel"
+        },
+        {
+            "index": 5,
+            "start_time": 11699,
+            "end_time": 13699,
+            "text": "nido"
+        },
+        {
+            "index": 6,
+            "start_time": 14244,
+            "end_time": 16244,
+            "text": "Nicaragua"
+        }
+    ]
+}

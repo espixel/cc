@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "ytXZdFqzp7s",
+    "title": "西班牙文發音 - ri 音節 | ri - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 113,
+            "end_time": 2582,
+            "text": "r-i"
+        },
+        {
+            "index": 2,
+            "start_time": 2607,
+            "end_time": 4607,
+            "text": "ri"
+        },
+        {
+            "index": 3,
+            "start_time": 5234,
+            "end_time": 7234,
+            "text": "rinoceronte"
+        },
+        {
+            "index": 4,
+            "start_time": 8056,
+            "end_time": 10056,
+            "text": "río"
+        },
+        {
+            "index": 5,
+            "start_time": 10613,
+            "end_time": 12613,
+            "text": "rifle"
+        },
+        {
+            "index": 6,
+            "start_time": 13252,
+            "end_time": 15252,
+            "text": "ribete"
+        }
+    ]
+}

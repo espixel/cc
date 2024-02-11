@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "TmzFSlMghho",
+    "title": "西班牙文發音 - pa 音節 | pa - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 704,
+            "end_time": 3404,
+            "text": "p-a"
+        },
+        {
+            "index": 2,
+            "start_time": 3436,
+            "end_time": 5436,
+            "text": "pa"
+        },
+        {
+            "index": 3,
+            "start_time": 5461,
+            "end_time": 7461,
+            "text": "pato"
+        },
+        {
+            "index": 4,
+            "start_time": 7761,
+            "end_time": 9761,
+            "text": "mapa"
+        },
+        {
+            "index": 5,
+            "start_time": 10026,
+            "end_time": 12026,
+            "text": "pala"
+        },
+        {
+            "index": 6,
+            "start_time": 12208,
+            "end_time": 14208,
+            "text": "capa"
+        }
+    ]
+}

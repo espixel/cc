@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "PVjZvtudo_E",
+    "title": "西班牙文發音 - rro 音節 | rro - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 755,
+            "end_time": 3455,
+            "text": "rr-o"
+        },
+        {
+            "index": 2,
+            "start_time": 3768,
+            "end_time": 5768,
+            "text": "rro"
+        },
+        {
+            "index": 3,
+            "start_time": 6245,
+            "end_time": 8245,
+            "text": "carro"
+        },
+        {
+            "index": 4,
+            "start_time": 8731,
+            "end_time": 10731,
+            "text": "churro"
+        },
+        {
+            "index": 5,
+            "start_time": 11284,
+            "end_time": 13284,
+            "text": "zorro"
+        },
+        {
+            "index": 6,
+            "start_time": 14101,
+            "end_time": 16101,
+            "text": "ferrocarril"
+        }
+    ]
+}

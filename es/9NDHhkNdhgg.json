@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "9NDHhkNdhgg",
+    "title": "西班牙文發音 - se 音節 | se - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 913,
+            "end_time": 3613,
+            "text": "s-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3710,
+            "end_time": 5710,
+            "text": "se"
+        },
+        {
+            "index": 3,
+            "start_time": 6202,
+            "end_time": 8202,
+            "text": "semáforo"
+        },
+        {
+            "index": 4,
+            "start_time": 8748,
+            "end_time": 10748,
+            "text": "mesera"
+        },
+        {
+            "index": 5,
+            "start_time": 11179,
+            "end_time": 13179,
+            "text": "señora"
+        },
+        {
+            "index": 6,
+            "start_time": 13798,
+            "end_time": 15798,
+            "text": "semillas"
+        }
+    ]
+}

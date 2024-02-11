@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "SHWQmbkyuXg",
+    "title": "西班牙文發音 - no 音節 | no - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 979,
+            "end_time": 3679,
+            "text": "n-o"
+        },
+        {
+            "index": 2,
+            "start_time": 3917,
+            "end_time": 5917,
+            "text": "no"
+        },
+        {
+            "index": 3,
+            "start_time": 6368,
+            "end_time": 8368,
+            "text": "novia"
+        },
+        {
+            "index": 4,
+            "start_time": 8771,
+            "end_time": 10771,
+            "text": "notas"
+        },
+        {
+            "index": 5,
+            "start_time": 11196,
+            "end_time": 13196,
+            "text": "nopal"
+        },
+        {
+            "index": 6,
+            "start_time": 13642,
+            "end_time": 15642,
+            "text": "noche"
+        }
+    ]
+}

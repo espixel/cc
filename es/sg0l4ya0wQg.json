@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "sg0l4ya0wQg",
+    "title": "西班牙文發音 - la 音節 | la - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 1113,
+            "end_time": 3813,
+            "text": "l-a"
+        },
+        {
+            "index": 2,
+            "start_time": 3867,
+            "end_time": 5867,
+            "text": "la"
+        },
+        {
+            "index": 3,
+            "start_time": 6313,
+            "end_time": 8313,
+            "text": "lápiz"
+        },
+        {
+            "index": 4,
+            "start_time": 8884,
+            "end_time": 10884,
+            "text": "calabaza"
+        },
+        {
+            "index": 5,
+            "start_time": 11566,
+            "end_time": 13566,
+            "text": "lago"
+        },
+        {
+            "index": 6,
+            "start_time": 14298,
+            "end_time": 16298,
+            "text": "ladrillo"
+        }
+    ]
+}

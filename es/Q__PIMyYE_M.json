@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "Q__PIMyYE_M",
+    "title": "西班牙文發音 - sa 音節 | sa - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 754,
+            "end_time": 3454,
+            "text": "s-a"
+        },
+        {
+            "index": 2,
+            "start_time": 3518,
+            "end_time": 5518,
+            "text": "sa"
+        },
+        {
+            "index": 3,
+            "start_time": 5916,
+            "end_time": 7916,
+            "text": "ensalada"
+        },
+        {
+            "index": 4,
+            "start_time": 8256,
+            "end_time": 10256,
+            "text": "casa"
+        },
+        {
+            "index": 5,
+            "start_time": 10662,
+            "end_time": 12662,
+            "text": "saludar"
+        },
+        {
+            "index": 6,
+            "start_time": 13052,
+            "end_time": 15052,
+            "text": "sala"
+        }
+    ]
+}

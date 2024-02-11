@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "XXa4bJuf6-Y",
+    "title": "西班牙文發音 - ma 音節 | ma - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 944,
+            "end_time": 3644,
+            "text": "m-a"
+        },
+        {
+            "index": 2,
+            "start_time": 3669,
+            "end_time": 5669,
+            "text": "ma"
+        },
+        {
+            "index": 3,
+            "start_time": 5851,
+            "end_time": 7851,
+            "text": "mamá"
+        },
+        {
+            "index": 4,
+            "start_time": 8257,
+            "end_time": 10257,
+            "text": "mano"
+        },
+        {
+            "index": 5,
+            "start_time": 10794,
+            "end_time": 12794,
+            "text": "mariposa"
+        },
+        {
+            "index": 6,
+            "start_time": 13418,
+            "end_time": 15418,
+            "text": "maleta"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "Ycr4vtKlW90",
+    "title": "西班牙文發音 - to 音節 | to - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 875,
+            "end_time": 3575,
+            "text": "t-o"
+        },
+        {
+            "index": 2,
+            "start_time": 3600,
+            "end_time": 5600,
+            "text": "to"
+        },
+        {
+            "index": 3,
+            "start_time": 5675,
+            "end_time": 7675,
+            "text": "toro"
+        },
+        {
+            "index": 4,
+            "start_time": 7964,
+            "end_time": 9964,
+            "text": "tomate"
+        },
+        {
+            "index": 5,
+            "start_time": 10297,
+            "end_time": 12297,
+            "text": "topo"
+        },
+        {
+            "index": 6,
+            "start_time": 12615,
+            "end_time": 14615,
+            "text": "torre"
+        }
+    ]
+}

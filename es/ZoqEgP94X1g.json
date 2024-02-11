@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "ZoqEgP94X1g",
+    "title": "西班牙文發音 - me 音節 | me - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 1083,
+            "end_time": 3783,
+            "text": "m-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3808,
+            "end_time": 5808,
+            "text": "me"
+        },
+        {
+            "index": 3,
+            "start_time": 6222,
+            "end_time": 8222,
+            "text": "mesa"
+        },
+        {
+            "index": 4,
+            "start_time": 8797,
+            "end_time": 10797,
+            "text": "números"
+        },
+        {
+            "index": 5,
+            "start_time": 11445,
+            "end_time": 13445,
+            "text": "medalla"
+        },
+        {
+            "index": 6,
+            "start_time": 14057,
+            "end_time": 16057,
+            "text": "medusa"
+        }
+    ]
+}

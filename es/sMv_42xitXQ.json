@@ -1,0 +1,37 @@
+﻿{
+    "video_id": "sMv_42xitXQ",
+    "title": "西班牙文發音 - bo 音節 | bo - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "start_time": 902.333333333333,
+            "end_time": 3602.33333333333,
+            "text": "b-o"
+        },
+        {
+            "start_time": 4054,
+            "end_time": 6054,
+            "text": "bo"
+        },
+        {
+            "start_time": 6405,
+            "end_time": 8405,
+            "text": "botas"
+        },
+        {
+            "start_time": 9015,
+            "end_time": 11015,
+            "text": "botones"
+        },
+        {
+            "start_time": 11698,
+            "end_time": 13698,
+            "text": "botella"
+        },
+        {
+            "start_time": 14195,
+            "end_time": 16195,
+            "text": "boca"
+        }
+    ]
+}

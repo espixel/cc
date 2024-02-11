@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "QsBIIACwD7c",
+    "title": "西班牙文發音 - li 音節 | li - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 978,
+            "end_time": 3678,
+            "text": "l-i"
+        },
+        {
+            "index": 2,
+            "start_time": 3703,
+            "end_time": 5703,
+            "text": "li"
+        },
+        {
+            "index": 3,
+            "start_time": 6158,
+            "end_time": 8158,
+            "text": "libro"
+        },
+        {
+            "index": 4,
+            "start_time": 8752,
+            "end_time": 10752,
+            "text": "salida"
+        },
+        {
+            "index": 5,
+            "start_time": 11266,
+            "end_time": 13266,
+            "text": "lima"
+        },
+        {
+            "index": 6,
+            "start_time": 13804,
+            "end_time": 15804,
+            "text": "litera"
+        }
+    ]
+}

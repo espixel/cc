@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "gq6BUPvyKMU",
+    "title": "西班牙文發音 - te 音節 | te - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 876,
+            "end_time": 3576,
+            "text": "t-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3757,
+            "end_time": 5757,
+            "text": "te"
+        },
+        {
+            "index": 3,
+            "start_time": 6098,
+            "end_time": 8098,
+            "text": "tenedor"
+        },
+        {
+            "index": 4,
+            "start_time": 8789,
+            "end_time": 10789,
+            "text": "teléfono"
+        },
+        {
+            "index": 5,
+            "start_time": 11367,
+            "end_time": 13367,
+            "text": "telaraña"
+        },
+        {
+            "index": 6,
+            "start_time": 13758,
+            "end_time": 15758,
+            "text": "tela"
+        }
+    ]
+}

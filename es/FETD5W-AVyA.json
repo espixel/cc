@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "FETD5W-AVyA",
+    "title": "西班牙文發音 - jo 音節 | jo - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 866,
+            "end_time": 3566,
+            "text": "j-o"
+        },
+        {
+            "index": 2,
+            "start_time": 3710,
+            "end_time": 5710,
+            "text": "jo"
+        },
+        {
+            "index": 3,
+            "start_time": 6108,
+            "end_time": 8108,
+            "text": "joroba"
+        },
+        {
+            "index": 4,
+            "start_time": 8606,
+            "end_time": 10606,
+            "text": "jota"
+        },
+        {
+            "index": 5,
+            "start_time": 11058,
+            "end_time": 13058,
+            "text": "joyas"
+        },
+        {
+            "index": 6,
+            "start_time": 13565,
+            "end_time": 15565,
+            "text": "ojo"
+        }
+    ]
+}

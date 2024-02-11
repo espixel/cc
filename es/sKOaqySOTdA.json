@@ -1,0 +1,37 @@
+﻿{
+    "video_id": "sKOaqySOTdA",
+    "title": "西班牙文發音 - bi 音節 | bi - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "start_time": 903,
+            "end_time": 3603,
+            "text": "b-i"
+        },
+        {
+            "start_time": 3941,
+            "end_time": 5941,
+            "text": "bi"
+        },
+        {
+            "start_time": 6485,
+            "end_time": 8485,
+            "text": "bicicleta"
+        },
+        {
+            "start_time": 9195,
+            "end_time": 11195,
+            "text": "billetera"
+        },
+        {
+            "start_time": 11905,
+            "end_time": 13905,
+            "text": "biblioteca"
+        },
+        {
+            "start_time": 14857,
+            "end_time": 16857,
+            "text": "binoculares"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "TvFIvTVnIdQ",
+    "title": "西班牙文發音 - ju 音節 | ju - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 766,
+            "end_time": 3466,
+            "text": "j-u"
+        },
+        {
+            "index": 2,
+            "start_time": 3605,
+            "end_time": 5605,
+            "text": "ju"
+        },
+        {
+            "index": 3,
+            "start_time": 6175,
+            "end_time": 8175,
+            "text": "juguetes"
+        },
+        {
+            "index": 4,
+            "start_time": 8912,
+            "end_time": 10912,
+            "text": "jurar"
+        },
+        {
+            "index": 5,
+            "start_time": 11459,
+            "end_time": 13459,
+            "text": "jugo"
+        },
+        {
+            "index": 6,
+            "start_time": 13998,
+            "end_time": 15998,
+            "text": "Júpiter"
+        }
+    ]
+}

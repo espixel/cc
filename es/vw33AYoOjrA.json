@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "vw33AYoOjrA",
+    "title": "西班牙文發音 - ne 音節 | ne - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 867,
+            "end_time": 3567,
+            "text": "n-e"
+        },
+        {
+            "index": 2,
+            "start_time": 3764,
+            "end_time": 5764,
+            "text": "ne"
+        },
+        {
+            "index": 3,
+            "start_time": 6217,
+            "end_time": 8217,
+            "text": "nevera"
+        },
+        {
+            "index": 4,
+            "start_time": 8713,
+            "end_time": 10713,
+            "text": "negro"
+        },
+        {
+            "index": 5,
+            "start_time": 11200,
+            "end_time": 13200,
+            "text": "neblina"
+        },
+        {
+            "index": 6,
+            "start_time": 13700,
+            "end_time": 15700,
+            "text": "nevar"
+        }
+    ]
+}

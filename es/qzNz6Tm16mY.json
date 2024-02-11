@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "qzNz6Tm16mY",
+    "title": "西班牙文發音 - lu 音節 | lu - sílaba",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 959,
+            "end_time": 3659,
+            "text": "l-u"
+        },
+        {
+            "index": 2,
+            "start_time": 3684,
+            "end_time": 5684,
+            "text": "lu"
+        },
+        {
+            "index": 3,
+            "start_time": 6011,
+            "end_time": 8011,
+            "text": "luna"
+        },
+        {
+            "index": 4,
+            "start_time": 8605,
+            "end_time": 10605,
+            "text": "celular"
+        },
+        {
+            "index": 5,
+            "start_time": 11255,
+            "end_time": 13255,
+            "text": "lupa"
+        },
+        {
+            "index": 6,
+            "start_time": 13946,
+            "end_time": 15946,
+            "text": "luciérnaga"
+        }
+    ]
+}
