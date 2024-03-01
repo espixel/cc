@@ -1,0 +1,175 @@
+﻿{
+    "video_id": "-ZEMBz_Qaj8",
+    "title": "西班牙文字母發音 - El abecedario en español",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 1206,
+            "end_time": 3019,
+            "text": "El abecedario"
+        },
+        {
+            "index": 2,
+            "start_time": 4109,
+            "end_time": 5321,
+            "text": "Aa - a"
+        },
+        {
+            "index": 3,
+            "start_time": 5508,
+            "end_time": 6720,
+            "text": "Bb - be"
+        },
+        {
+            "index": 4,
+            "start_time": 6890,
+            "end_time": 8102,
+            "text": "Cc - ce"
+        },
+        {
+            "index": 5,
+            "start_time": 8374,
+            "end_time": 9586,
+            "text": "Dd - de"
+        },
+        {
+            "index": 6,
+            "start_time": 9821,
+            "end_time": 11033,
+            "text": "Ee - e"
+        },
+        {
+            "index": 7,
+            "start_time": 11323,
+            "end_time": 12535,
+            "text": "Ff - f"
+        },
+        {
+            "index": 8,
+            "start_time": 12901,
+            "end_time": 14113,
+            "text": "Gg - ge"
+        },
+        {
+            "index": 9,
+            "start_time": 14449,
+            "end_time": 15661,
+            "text": "Hh - hache"
+        },
+        {
+            "index": 10,
+            "start_time": 15793,
+            "end_time": 17005,
+            "text": "Ii - i"
+        },
+        {
+            "index": 11,
+            "start_time": 17231,
+            "end_time": 18443,
+            "text": "Jj - jota"
+        },
+        {
+            "index": 12,
+            "start_time": 18645,
+            "end_time": 19857,
+            "text": "Kk - ka"
+        },
+        {
+            "index": 13,
+            "start_time": 20052,
+            "end_time": 21264,
+            "text": "Ll - ele"
+        },
+        {
+            "index": 14,
+            "start_time": 21498,
+            "end_time": 22710,
+            "text": "Mm - eme"
+        },
+        {
+            "index": 15,
+            "start_time": 23006,
+            "end_time": 24218,
+            "text": "Nn - ene"
+        },
+        {
+            "index": 16,
+            "start_time": 24405,
+            "end_time": 25617,
+            "text": "Ññ - eñe"
+        },
+        {
+            "index": 17,
+            "start_time": 25945,
+            "end_time": 27157,
+            "text": "Oo - o"
+        },
+        {
+            "index": 18,
+            "start_time": 27672,
+            "end_time": 28884,
+            "text": "Pp - pe"
+        },
+        {
+            "index": 19,
+            "start_time": 29062,
+            "end_time": 30274,
+            "text": "Qq - cu"
+        },
+        {
+            "index": 20,
+            "start_time": 30657,
+            "end_time": 31869,
+            "text": "Rr - erre"
+        },
+        {
+            "index": 21,
+            "start_time": 32105,
+            "end_time": 33317,
+            "text": "Ss - ese"
+        },
+        {
+            "index": 22,
+            "start_time": 33647,
+            "end_time": 34859,
+            "text": "Tt - te"
+        },
+        {
+            "index": 23,
+            "start_time": 35150,
+            "end_time": 36362,
+            "text": "Uu - u"
+        },
+        {
+            "index": 24,
+            "start_time": 36699,
+            "end_time": 37911,
+            "text": "Vv - uve"
+        },
+        {
+            "index": 25,
+            "start_time": 38701,
+            "end_time": 39913,
+            "text": "Ww - uve doble"
+        },
+        {
+            "index": 26,
+            "start_time": 40334,
+            "end_time": 41546,
+            "text": "Xx - equis"
+        },
+        {
+            "index": 27,
+            "start_time": 41801,
+            "end_time": 43013,
+            "text": "Yy - ye"
+        },
+        {
+            "index": 28,
+            "start_time": 43196,
+            "end_time": 44408,
+            "text": "Zz - zeta"
+        }
+    ]
+}

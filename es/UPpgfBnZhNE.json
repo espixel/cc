@@ -1,0 +1,43 @@
+﻿{
+    "video_id": "UPpgfBnZhNE",
+    "title": "西班牙文二合字母 - Dígrafos del español",
+    "zh": 0,
+    "json": [
+        {
+            "index": 1,
+            "start_time": 001,
+            "end_time": 2806,
+            "text": "Dígrafos del español"
+        },
+        {
+            "index": 2,
+            "start_time": 3705,
+            "end_time": 4705,
+            "text": "ch - che"
+        },
+        {
+            "index": 3,
+            "start_time": 4858,
+            "end_time": 6858,
+            "text": "gu - ge u"
+        },
+        {
+            "index": 4,
+            "start_time": 6883,
+            "end_time": 8883,
+            "text": "ll - doble ele"
+        },
+        {
+            "index": 5,
+            "start_time": 8908,
+            "end_time": 10908,
+            "text": "qu - cu u"
+        },
+        {
+            "index": 6,
+            "start_time": 10933,
+            "end_time": 12933,
+            "text": "rr - doble erre"
+        }
+    ]
+}
