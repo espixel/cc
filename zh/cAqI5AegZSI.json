@@ -1,0 +1,43 @@
+{
+  "video_id": "cAqI5AegZSI",
+  "title": "西班牙文發音 - tu 音節 | tu - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 959,
+      "end_time": 3659,
+      "text": "t-u"
+    },
+    {
+      "index": 2,
+      "start_time": 3811,
+      "end_time": 5811,
+      "text": "tu"
+    },
+    {
+      "index": 3,
+      "start_time": 5959,
+      "end_time": 7959,
+      "text": "梨果仙人掌"
+    },
+    {
+      "index": 4,
+      "start_time": 8409,
+      "end_time": 10409,
+      "text": "鬱金香"
+    },
+    {
+      "index": 5,
+      "start_time": 10868,
+      "end_time": 12868,
+      "text": "低音號"
+    },
+    {
+      "index": 6,
+      "start_time": 13107,
+      "end_time": 15107,
+      "text": "隧道"
+    }
+  ]
+}

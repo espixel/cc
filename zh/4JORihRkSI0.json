@@ -1,0 +1,43 @@
+{
+  "video_id": "4JORihRkSI0",
+  "title": "西班牙文發音 - pe 音節 | pe - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 784,
+      "end_time": 3484,
+      "text": "p-e"
+    },
+    {
+      "index": 2,
+      "start_time": 3509,
+      "end_time": 5509,
+      "text": "pe"
+    },
+    {
+      "index": 3,
+      "start_time": 5605,
+      "end_time": 7605,
+      "text": "狗"
+    },
+    {
+      "index": 4,
+      "start_time": 7894,
+      "end_time": 9894,
+      "text": "梨子"
+    },
+    {
+      "index": 5,
+      "start_time": 10163,
+      "end_time": 12163,
+      "text": "危險"
+    },
+    {
+      "index": 6,
+      "start_time": 12654,
+      "end_time": 14654,
+      "text": "鏡子"
+    }
+  ]
+}

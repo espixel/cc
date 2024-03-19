@@ -1,0 +1,43 @@
+{
+  "video_id": "I_TFOKHI08U",
+  "title": "西班牙文發音 - rra 音節 | rra - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 729,
+      "end_time": 3429,
+      "text": "rr-a"
+    },
+    {
+      "index": 2,
+      "start_time": 4090,
+      "end_time": 6090,
+      "text": "rra"
+    },
+    {
+      "index": 3,
+      "start_time": 6655,
+      "end_time": 8655,
+      "text": "橡皮擦"
+    },
+    {
+      "index": 4,
+      "start_time": 9361,
+      "end_time": 11361,
+      "text": "地球"
+    },
+    {
+      "index": 5,
+      "start_time": 11976,
+      "end_time": 13976,
+      "text": "吉他"
+    },
+    {
+      "index": 6,
+      "start_time": 14703,
+      "end_time": 16703,
+      "text": "溢出"
+    }
+  ]
+}

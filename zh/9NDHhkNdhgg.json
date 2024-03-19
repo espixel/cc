@@ -1,0 +1,43 @@
+{
+  "video_id": "9NDHhkNdhgg",
+  "title": "西班牙文發音 - se 音節 | se - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 913,
+      "end_time": 3613,
+      "text": "s-e"
+    },
+    {
+      "index": 2,
+      "start_time": 3710,
+      "end_time": 5710,
+      "text": "se"
+    },
+    {
+      "index": 3,
+      "start_time": 6202,
+      "end_time": 8202,
+      "text": "紅綠燈"
+    },
+    {
+      "index": 4,
+      "start_time": 8748,
+      "end_time": 10748,
+      "text": "女服務員"
+    },
+    {
+      "index": 5,
+      "start_time": 11179,
+      "end_time": 13179,
+      "text": "女士、太太"
+    },
+    {
+      "index": 6,
+      "start_time": 13798,
+      "end_time": 15798,
+      "text": "種子"
+    }
+  ]
+}

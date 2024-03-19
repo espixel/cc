@@ -1,0 +1,43 @@
+{
+  "video_id": "sKOaqySOTdA",
+  "title": "西班牙文發音 - bi 音節 | bi - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 903,
+      "end_time": 3603,
+      "text": "b-i"
+    },
+    {
+      "index": 2,
+      "start_time": 3941,
+      "end_time": 5941,
+      "text": "bi"
+    },
+    {
+      "index": 3,
+      "start_time": 6485,
+      "end_time": 8485,
+      "text": "腳踏車、自行車"
+    },
+    {
+      "index": 4,
+      "start_time": 9195,
+      "end_time": 11195,
+      "text": "錢包"
+    },
+    {
+      "index": 5,
+      "start_time": 11905,
+      "end_time": 13905,
+      "text": "圖書館"
+    },
+    {
+      "index": 6,
+      "start_time": 14857,
+      "end_time": 16857,
+      "text": "雙筒望遠鏡"
+    }
+  ]
+}

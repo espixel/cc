@@ -1,0 +1,43 @@
+{
+  "video_id": "Ed8lhk_7okM",
+  "title": "西班牙文發音 - pi 音節 | pi - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 697,
+      "end_time": 3397,
+      "text": "p-i"
+    },
+    {
+      "index": 2,
+      "start_time": 3422,
+      "end_time": 5422,
+      "text": "pi"
+    },
+    {
+      "index": 3,
+      "start_time": 5611,
+      "end_time": 7611,
+      "text": "地板"
+    },
+    {
+      "index": 4,
+      "start_time": 8046,
+      "end_time": 10046,
+      "text": "刷子"
+    },
+    {
+      "index": 5,
+      "start_time": 10407,
+      "end_time": 12407,
+      "text": "喙"
+    },
+    {
+      "index": 6,
+      "start_time": 12761,
+      "end_time": 14761,
+      "text": "黃瓜"
+    }
+  ]
+}

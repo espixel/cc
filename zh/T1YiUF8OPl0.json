@@ -1,0 +1,43 @@
+{
+  "video_id": "T1YiUF8OPl0",
+  "title": "西班牙文發音 - cu 音節 | cu - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 654,
+      "end_time": 3354,
+      "text": "c-u"
+    },
+    {
+      "index": 2,
+      "start_time": 3527,
+      "end_time": 5527,
+      "text": "cu"
+    },
+    {
+      "index": 3,
+      "start_time": 5866,
+      "end_time": 7866,
+      "text": "立方體"
+    },
+    {
+      "index": 4,
+      "start_time": 8237,
+      "end_time": 10237,
+      "text": "蛇"
+    },
+    {
+      "index": 5,
+      "start_time": 10859,
+      "end_time": 12859,
+      "text": "刀子"
+    },
+    {
+      "index": 6,
+      "start_time": 13270,
+      "end_time": 15270,
+      "text": "嬰兒床、搖籃"
+    }
+  ]
+}

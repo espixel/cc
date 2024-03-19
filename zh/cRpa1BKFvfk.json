@@ -1,0 +1,43 @@
+{
+  "video_id": "cRpa1BKFvfk",
+  "title": "西班牙文發音 - si 音節 | si - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 913,
+      "end_time": 3613,
+      "text": "s-i"
+    },
+    {
+      "index": 2,
+      "start_time": 3802,
+      "end_time": 5802,
+      "text": "si"
+    },
+    {
+      "index": 3,
+      "start_time": 6102,
+      "end_time": 8102,
+      "text": "椅子"
+    },
+    {
+      "index": 4,
+      "start_time": 8505,
+      "end_time": 10505,
+      "text": "走廊"
+    },
+    {
+      "index": 5,
+      "start_time": 11032,
+      "end_time": 13032,
+      "text": "安靜"
+    },
+    {
+      "index": 6,
+      "start_time": 13585,
+      "end_time": 15585,
+      "text": "音樂家"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "video_id": "PUQjN4IrlbE",
+  "title": "西班牙文發音 - ce 音節 | ce - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 816,
+      "end_time": 3516,
+      "text": "c-e"
+    },
+    {
+      "index": 2,
+      "start_time": 3541,
+      "end_time": 5541,
+      "text": "ce"
+    },
+    {
+      "index": 3,
+      "start_time": 5879,
+      "end_time": 7879,
+      "text": "洋蔥"
+    },
+    {
+      "index": 4,
+      "start_time": 8450,
+      "end_time": 10450,
+      "text": "斑馬"
+    },
+    {
+      "index": 5,
+      "start_time": 10979,
+      "end_time": 12979,
+      "text": "眉毛"
+    },
+    {
+      "index": 6,
+      "start_time": 13557,
+      "end_time": 15557,
+      "text": "櫻桃"
+    }
+  ]
+}

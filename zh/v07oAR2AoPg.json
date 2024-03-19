@@ -1,0 +1,43 @@
+{
+  "video_id": "v07oAR2AoPg",
+  "title": "西班牙文發音 - fa 音節 | fa - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 869,
+      "end_time": 3569,
+      "text": "f-a"
+    },
+    {
+      "index": 2,
+      "start_time": 3788,
+      "end_time": 5788,
+      "text": "fa"
+    },
+    {
+      "index": 3,
+      "start_time": 6279,
+      "end_time": 8279,
+      "text": "燈塔"
+    },
+    {
+      "index": 4,
+      "start_time": 8968,
+      "end_time": 10968,
+      "text": "家庭、家族"
+    },
+    {
+      "index": 5,
+      "start_time": 11705,
+      "end_time": 13705,
+      "text": "寓言"
+    },
+    {
+      "index": 6,
+      "start_time": 14384,
+      "end_time": 16384,
+      "text": "工廠"
+    }
+  ]
+}

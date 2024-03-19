@@ -1,0 +1,43 @@
+{
+  "video_id": "QR_-PTRCD54",
+  "title": "西班牙文發音 - rri 音節 | rri - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 729,
+      "end_time": 3429,
+      "text": "rr-i"
+    },
+    {
+      "index": 2,
+      "start_time": 4009,
+      "end_time": 6009,
+      "text": "rri"
+    },
+    {
+      "index": 3,
+      "start_time": 6460,
+      "end_time": 8460,
+      "text": "小狗"
+    },
+    {
+      "index": 4,
+      "start_time": 8999,
+      "end_time": 10999,
+      "text": "烤架"
+    },
+    {
+      "index": 5,
+      "start_time": 11690,
+      "end_time": 13690,
+      "text": "臭鼬"
+    },
+    {
+      "index": 6,
+      "start_time": 14408,
+      "end_time": 16408,
+      "text": "百花香"
+    }
+  ]
+}

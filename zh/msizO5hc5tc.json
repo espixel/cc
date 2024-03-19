@@ -1,0 +1,43 @@
+{
+  "video_id": "msizO5hc5tc",
+  "title": "西班牙文發音 - ti 音節 | ti - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 842,
+      "end_time": 3542,
+      "text": "t-i"
+    },
+    {
+      "index": 2,
+      "start_time": 4016,
+      "end_time": 6016,
+      "text": "ti"
+    },
+    {
+      "index": 3,
+      "start_time": 6317,
+      "end_time": 8317,
+      "text": "鯊魚"
+    },
+    {
+      "index": 4,
+      "start_time": 8788,
+      "end_time": 10788,
+      "text": "剪刀"
+    },
+    {
+      "index": 5,
+      "start_time": 11241,
+      "end_time": 13241,
+      "text": "粉筆"
+    },
+    {
+      "index": 6,
+      "start_time": 13563,
+      "end_time": 15563,
+      "text": "木偶"
+    }
+  ]
+}

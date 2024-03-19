@@ -1,0 +1,43 @@
+{
+  "video_id": "tPBJ8P2Jk3Y",
+  "title": "西班牙文發音 - di 音節 | di - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 855,
+      "end_time": 3555,
+      "text": "d-i"
+    },
+    {
+      "index": 2,
+      "start_time": 3674,
+      "end_time": 5674,
+      "text": "di"
+    },
+    {
+      "index": 3,
+      "start_time": 6066,
+      "end_time": 8066,
+      "text": "錢"
+    },
+    {
+      "index": 4,
+      "start_time": 8763,
+      "end_time": 10763,
+      "text": "恐龍"
+    },
+    {
+      "index": 5,
+      "start_time": 11572,
+      "end_time": 13572,
+      "text": "十二月"
+    },
+    {
+      "index": 6,
+      "start_time": 14189,
+      "end_time": 16189,
+      "text": "畫畫"
+    }
+  ]
+}

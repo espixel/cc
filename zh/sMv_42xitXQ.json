@@ -1,0 +1,43 @@
+{
+  "video_id": "sMv_42xitXQ",
+  "title": "西班牙文發音 - bo 音節 | bo - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 902,
+      "end_time": 3602,
+      "text": "b-o"
+    },
+    {
+      "index": 2,
+      "start_time": 4054,
+      "end_time": 6054,
+      "text": "bo"
+    },
+    {
+      "index": 3,
+      "start_time": 6405,
+      "end_time": 8405,
+      "text": "靴子"
+    },
+    {
+      "index": 4,
+      "start_time": 9015,
+      "end_time": 11015,
+      "text": "鈕扣"
+    },
+    {
+      "index": 5,
+      "start_time": 11698,
+      "end_time": 13698,
+      "text": "瓶子"
+    },
+    {
+      "index": 6,
+      "start_time": 14195,
+      "end_time": 16195,
+      "text": "嘴巴"
+    }
+  ]
+}

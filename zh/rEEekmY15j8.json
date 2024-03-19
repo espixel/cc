@@ -1,0 +1,43 @@
+{
+  "video_id": "rEEekmY15j8",
+  "title": "西班牙文發音 - gui 音節 | gui - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 859,
+      "end_time": 3559,
+      "text": "gu-i"
+    },
+    {
+      "index": 2,
+      "start_time": 4009,
+      "end_time": 6009,
+      "text": "gui"
+    },
+    {
+      "index": 3,
+      "start_time": 6394,
+      "end_time": 8394,
+      "text": "吉他"
+    },
+    {
+      "index": 4,
+      "start_time": 8893,
+      "end_time": 10893,
+      "text": "老鷹"
+    },
+    {
+      "index": 5,
+      "start_time": 11279,
+      "end_time": 13279,
+      "text": "鰻魚"
+    },
+    {
+      "index": 6,
+      "start_time": 14026,
+      "end_time": 16026,
+      "text": "卵石"
+    }
+  ]
+}

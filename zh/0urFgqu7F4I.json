@@ -1,0 +1,43 @@
+{
+  "video_id": "0urFgqu7F4I",
+  "title": "西班牙文發音 - ja 音節 | ja - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 812,
+      "end_time": 3512,
+      "text": "j-a"
+    },
+    {
+      "index": 2,
+      "start_time": 3537,
+      "end_time": 5537,
+      "text": "ja"
+    },
+    {
+      "index": 3,
+      "start_time": 5811,
+      "end_time": 7811,
+      "text": "壺"
+    },
+    {
+      "index": 4,
+      "start_time": 8215,
+      "end_time": 10215,
+      "text": "肥皂"
+    },
+    {
+      "index": 5,
+      "start_time": 10687,
+      "end_time": 12687,
+      "text": "野豬"
+    },
+    {
+      "index": 6,
+      "start_time": 13193,
+      "end_time": 15193,
+      "text": "美洲豹"
+    }
+  ]
+}

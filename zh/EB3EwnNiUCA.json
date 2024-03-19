@@ -1,0 +1,43 @@
+{
+  "video_id": "EB3EwnNiUCA",
+  "title": "西班牙文發音 - chi 音節 | chi - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 1016,
+      "end_time": 3716,
+      "text": "ch-i"
+    },
+    {
+      "index": 2,
+      "start_time": 3888,
+      "end_time": 5888,
+      "text": "chi"
+    },
+    {
+      "index": 3,
+      "start_time": 6206,
+      "end_time": 8206,
+      "text": "壁爐"
+    },
+    {
+      "index": 4,
+      "start_time": 8970,
+      "end_time": 10970,
+      "text": "熱狗"
+    },
+    {
+      "index": 5,
+      "start_time": 11440,
+      "end_time": 13440,
+      "text": "智利"
+    },
+    {
+      "index": 6,
+      "start_time": 13743,
+      "end_time": 15743,
+      "text": "口香糖"
+    }
+  ]
+}

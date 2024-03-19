@@ -1,0 +1,43 @@
+{
+  "video_id": "SFcubf5rblM",
+  "title": "西班牙文發音 - cha 音節 | cha - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 903,
+      "end_time": 3603,
+      "text": "ch-a"
+    },
+    {
+      "index": 2,
+      "start_time": 3628,
+      "end_time": 5628,
+      "text": "cha"
+    },
+    {
+      "index": 3,
+      "start_time": 6017,
+      "end_time": 8017,
+      "text": "湯匙"
+    },
+    {
+      "index": 4,
+      "start_time": 8484,
+      "end_time": 10484,
+      "text": "背心"
+    },
+    {
+      "index": 5,
+      "start_time": 11100,
+      "end_time": 13100,
+      "text": "熨斗"
+    },
+    {
+      "index": 6,
+      "start_time": 13676,
+      "end_time": 15676,
+      "text": "箭頭"
+    }
+  ]
+}

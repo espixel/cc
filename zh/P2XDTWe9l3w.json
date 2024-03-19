@@ -1,0 +1,43 @@
+{
+  "video_id": "P2XDTWe9l3w",
+  "title": "西班牙文發音 - na 音節 | na - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 913,
+      "end_time": 3613,
+      "text": "n-a"
+    },
+    {
+      "index": 2,
+      "start_time": 3638,
+      "end_time": 5638,
+      "text": "na"
+    },
+    {
+      "index": 3,
+      "start_time": 6151,
+      "end_time": 8151,
+      "text": "橙子"
+    },
+    {
+      "index": 4,
+      "start_time": 8707,
+      "end_time": 10707,
+      "text": "鼻子"
+    },
+    {
+      "index": 5,
+      "start_time": 11148,
+      "end_time": 13148,
+      "text": "大頭菜、蕪菁"
+    },
+    {
+      "index": 6,
+      "start_time": 13700,
+      "end_time": 15700,
+      "text": "游泳"
+    }
+  ]
+}

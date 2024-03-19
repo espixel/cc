@@ -1,0 +1,43 @@
+{
+  "video_id": "s6iXM24zTMI",
+  "title": "西班牙文發音 - ta 音節 | ta - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 697,
+      "end_time": 3397,
+      "text": "t-a"
+    },
+    {
+      "index": 2,
+      "start_time": 3422,
+      "end_time": 5422,
+      "text": "ta"
+    },
+    {
+      "index": 3,
+      "start_time": 5447,
+      "end_time": 7447,
+      "text": "蓋子"
+    },
+    {
+      "index": 4,
+      "start_time": 7605,
+      "end_time": 9605,
+      "text": "杯子"
+    },
+    {
+      "index": 5,
+      "start_time": 9829,
+      "end_time": 11829,
+      "text": "墨西哥夾餅"
+    },
+    {
+      "index": 6,
+      "start_time": 12260,
+      "end_time": 14260,
+      "text": "狼蛛"
+    }
+  ]
+}

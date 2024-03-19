@@ -1,0 +1,43 @@
+{
+  "video_id": "-NvY4HheidQ",
+  "title": "西班牙文發音 - so 音節 | so - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 1013,
+      "end_time": 3713,
+      "text": "s-o"
+    },
+    {
+      "index": 2,
+      "start_time": 4001,
+      "end_time": 6001,
+      "text": "so"
+    },
+    {
+      "index": 3,
+      "start_time": 6515,
+      "end_time": 8515,
+      "text": "沙發"
+    },
+    {
+      "index": 4,
+      "start_time": 8958,
+      "end_time": 10958,
+      "text": "湯"
+    },
+    {
+      "index": 5,
+      "start_time": 11297,
+      "end_time": 13297,
+      "text": "杯子"
+    },
+    {
+      "index": 6,
+      "start_time": 13651,
+      "end_time": 15651,
+      "text": "寶藏"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "video_id": "uh2zk2-8qeE",
+  "title": "西班牙文發音 - po 音節 | po - sílaba",
+  "es": 1,
+  "json": [
+    {
+      "index": 1,
+      "start_time": 743,
+      "end_time": 3443,
+      "text": "p-o"
+    },
+    {
+      "index": 2,
+      "start_time": 3494,
+      "end_time": 5494,
+      "text": "po"
+    },
+    {
+      "index": 3,
+      "start_time": 5670,
+      "end_time": 7670,
+      "text": "雞肉"
+    },
+    {
+      "index": 4,
+      "start_time": 8058,
+      "end_time": 10058,
+      "text": "警察"
+    },
+    {
+      "index": 5,
+      "start_time": 10552,
+      "end_time": 12552,
+      "text": "球隊、團隊"
+    },
+    {
+      "index": 6,
+      "start_time": 13107,
+      "end_time": 15107,
+      "text": "河馬"
+    }
+  ]
+}
