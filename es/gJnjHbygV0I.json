@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "gJnjHbygV0I",
     "title": "西班牙文發音 - che 音節 | che - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
-            "start_time": 916.333333333333,
-            "end_time": 3616.33333333333,
+            "index": 1,
+            "start_time": 916,
+            "end_time": 3616,
             "text": "ch-e"
         },
         {
+            "index": 2,
             "start_time": 3767,
             "end_time": 5767,
             "text": "che"
         },
         {
+            "index": 3,
             "start_time": 5966,
             "end_time": 7966,
             "text": "cheque"
         },
         {
+            "index": 4,
             "start_time": 8330,
             "end_time": 10330,
             "text": "leche"
         },
         {
+            "index": 5,
             "start_time": 10793,
             "end_time": 12793,
             "text": "mapache"
         },
         {
+            "index": 6,
             "start_time": 13336,
             "end_time": 15336,
             "text": "peluche"

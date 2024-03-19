@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "OZ5YMeVrk-U",
     "title": "西班牙文發音 - ci 音節 | ce - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
-            "start_time": 881.666666666667,
-            "end_time": 3581.66666666667,
+            "index": 1,
+            "start_time": 882,
+            "end_time": 3582,
             "text": "c-i"
         },
         {
+            "index": 2,
             "start_time": 3647,
             "end_time": 5647,
             "text": "ci"
         },
         {
+            "index": 3,
             "start_time": 6192,
             "end_time": 8192,
             "text": "ciruela"
         },
         {
+            "index": 4,
             "start_time": 8650,
             "end_time": 10650,
             "text": "cima"
         },
         {
+            "index": 5,
             "start_time": 11333,
             "end_time": 13333,
             "text": "ciclista"
         },
         {
+            "index": 6,
             "start_time": 14056,
             "end_time": 16056,
             "text": "cilindro"

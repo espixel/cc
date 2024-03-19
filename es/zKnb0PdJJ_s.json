@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "zKnb0PdJJ_s",
     "title": "西班牙文發音 - bu 音節 | bu - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
-            "start_time": 802.333333333333,
-            "end_time": 3502.33333333333,
+            "index": 1,
+            "start_time": 802,
+            "end_time": 3502,
             "text": "b-u"
         },
         {
+            "index": 2,
             "start_time": 3688,
             "end_time": 5688,
             "text": "bu"
         },
         {
+            "index": 3,
             "start_time": 5906,
             "end_time": 7906,
             "text": "buzo"
         },
         {
+            "index": 4,
             "start_time": 8397,
             "end_time": 10397,
             "text": "buzón"
         },
         {
+            "index": 5,
             "start_time": 10893,
             "end_time": 12893,
             "text": "búho"
         },
         {
+            "index": 6,
             "start_time": 13383,
             "end_time": 15383,
             "text": "bufanda"

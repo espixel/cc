@@ -4,31 +4,37 @@
     "zh": 0,
     "json": [
         {
+            "index": 1,
             "start_time": 903,
             "end_time": 3603,
             "text": "b-i"
         },
         {
+            "index": 2,
             "start_time": 3941,
             "end_time": 5941,
             "text": "bi"
         },
         {
+            "index": 3,
             "start_time": 6485,
             "end_time": 8485,
             "text": "bicicleta"
         },
         {
+            "index": 4,
             "start_time": 9195,
             "end_time": 11195,
             "text": "billetera"
         },
         {
+            "index": 5,
             "start_time": 11905,
             "end_time": 13905,
             "text": "biblioteca"
         },
         {
+            "index": 6,
             "start_time": 14857,
             "end_time": 16857,
             "text": "binoculares"

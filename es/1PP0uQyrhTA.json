@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "1PP0uQyrhTA",
     "title": "西班牙文發音 - fo 音節 | fo - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
-            "start_time": 1002.33333333333,
-            "end_time": 3702.33333333333,
+            "index": 1,
+            "start_time": 1002,
+            "end_time": 3702,
             "text": "f-o"
         },
         {
+            "index": 2,
             "start_time": 3987,
             "end_time": 5987,
             "text": "fo"
         },
         {
+            "index": 3,
             "start_time": 6518,
             "end_time": 8518,
             "text": "foco"
         },
         {
+            "index": 4,
             "start_time": 9195,
             "end_time": 11195,
             "text": "fogata"
         },
         {
+            "index": 5,
             "start_time": 11951,
             "end_time": 13951,
             "text": "foca"
         },
         {
+            "index": 6,
             "start_time": 14723,
             "end_time": 16723,
             "text": "fósiles"

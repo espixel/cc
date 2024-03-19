@@ -4,31 +4,37 @@
     "zh": 0,
     "json": [
         {
-            "start_time": 1002.33333333333,
-            "end_time": 3702.33333333333,
+            "index": 1,
+            "start_time": 1002,
+            "end_time": 3702,
             "text": "f-e"
         },
         {
+            "index": 2,
             "start_time": 3881,
             "end_time": 5881,
             "text": "fe"
         },
         {
+            "index": 3,
             "start_time": 6498,
             "end_time": 8498,
             "text": "felinos"
         },
         {
+            "index": 4,
             "start_time": 9134,
             "end_time": 11134,
             "text": "fecha"
         },
         {
+            "index": 5,
             "start_time": 11759,
             "end_time": 13759,
             "text": "feliz"
         },
         {
+            "index": 6,
             "start_time": 14363,
             "end_time": 16363,
             "text": "feroz"

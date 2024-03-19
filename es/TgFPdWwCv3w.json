@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "TgFPdWwCv3w",
     "title": "西班牙文發音 - do 音節 | do - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
+            "index": 1,
             "start_time": 948,
             "end_time": 3648,
             "text": "d-o"
         },
         {
+            "index": 2,
             "start_time": 3740,
             "end_time": 5740,
             "text": "do"
         },
         {
+            "index": 3,
             "start_time": 6006,
             "end_time": 8006,
             "text": "doce"
         },
         {
+            "index": 4,
             "start_time": 8470,
             "end_time": 10470,
             "text": "dólar"
         },
         {
+            "index": 5,
             "start_time": 11020,
             "end_time": 13020,
             "text": "domador"
         },
         {
+            "index": 6,
             "start_time": 13590,
             "end_time": 15590,
             "text": "dominós"

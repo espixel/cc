@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "kM_DFjw2ksI",
     "title": "西班牙文發音 - da 音節 | da - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
-            "start_time": 862.666666666667,
-            "end_time": 3562.66666666667,
+            "index": 1,
+            "start_time": 863,
+            "end_time": 3563,
             "text": "d-a"
         },
         {
+            "index": 2,
             "start_time": 3648,
             "end_time": 5648,
             "text": "da"
         },
         {
+            "index": 3,
             "start_time": 5785,
             "end_time": 7785,
             "text": "dado"
         },
         {
+            "index": 4,
             "start_time": 8257,
             "end_time": 10257,
             "text": "damas"
         },
         {
+            "index": 5,
             "start_time": 10819,
             "end_time": 12819,
             "text": "dátiles"
         },
         {
+            "index": 6,
             "start_time": 13409,
             "end_time": 15409,
             "text": "dalia"

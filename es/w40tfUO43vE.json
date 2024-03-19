@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "w40tfUO43vE",
     "title": "西班牙文發音 - ca 音節 | ca - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
+            "index": 1,
             "start_time": 901,
             "end_time": 3601,
             "text": "c-a"
         },
         {
+            "index": 2,
             "start_time": 3706,
             "end_time": 5706,
             "text": "ca"
         },
         {
+            "index": 3,
             "start_time": 5912,
             "end_time": 7912,
             "text": "caballo"
         },
         {
+            "index": 4,
             "start_time": 8469,
             "end_time": 10469,
             "text": "calendario"
         },
         {
+            "index": 5,
             "start_time": 11272,
             "end_time": 13272,
             "text": "caracol"
         },
         {
+            "index": 6,
             "start_time": 13869,
             "end_time": 15869,
             "text": "caminar"

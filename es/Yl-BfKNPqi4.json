@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "Yl-BfKNPqi4",
     "title": "西班牙文發音 - ga 音節 | ga - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
-            "start_time": 869.666666666667,
-            "end_time": 3569.66666666667,
+            "index": 1,
+            "start_time": 870,
+            "end_time": 3570,
             "text": "g-a"
         },
         {
+            "index": 2,
             "start_time": 3641,
             "end_time": 5641,
             "text": "ga"
         },
         {
+            "index": 3,
             "start_time": 5985,
             "end_time": 7985,
             "text": "gato"
         },
         {
+            "index": 4,
             "start_time": 8570,
             "end_time": 10570,
             "text": "gallina"
         },
         {
+            "index": 5,
             "start_time": 11260,
             "end_time": 13260,
             "text": "galletas"
         },
         {
+            "index": 6,
             "start_time": 13970,
             "end_time": 15970,
             "text": "gafas"

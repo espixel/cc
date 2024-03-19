@@ -4,31 +4,37 @@
     "zh": 0,
     "json": [
         {
-            "start_time": 902.333333333333,
-            "end_time": 3602.33333333333,
+            "index": 1,
+            "start_time": 902,
+            "end_time": 3602,
             "text": "b-o"
         },
         {
+            "index": 2,
             "start_time": 4054,
             "end_time": 6054,
             "text": "bo"
         },
         {
+            "index": 3,
             "start_time": 6405,
             "end_time": 8405,
             "text": "botas"
         },
         {
+            "index": 4,
             "start_time": 9015,
             "end_time": 11015,
             "text": "botones"
         },
         {
+            "index": 5,
             "start_time": 11698,
             "end_time": 13698,
             "text": "botella"
         },
         {
+            "index": 6,
             "start_time": 14195,
             "end_time": 16195,
             "text": "boca"

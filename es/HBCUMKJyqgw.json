@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "HBCUMKJyqgw",
     "title": "西班牙文發音 - de 音節 | de - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
-            "start_time": 901.666666666667,
-            "end_time": 3601.66666666667,
+            "index": 1,
+            "start_time": 902,
+            "end_time": 3602,
             "text": "d-e"
         },
         {
+            "index": 2,
             "start_time": 3707,
             "end_time": 5707,
             "text": "de"
         },
         {
+            "index": 3,
             "start_time": 6006,
             "end_time": 8006,
             "text": "dedo"
         },
         {
+            "index": 4,
             "start_time": 8437,
             "end_time": 10437,
             "text": "decena"
         },
         {
+            "index": 5,
             "start_time": 11080,
             "end_time": 13080,
             "text": "deportes"
         },
         {
+            "index": 6,
             "start_time": 13883,
             "end_time": 15883,
             "text": "desierto"

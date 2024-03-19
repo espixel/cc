@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "19aRJyWm4As",
     "title": "西班牙文發音 - fi 音節 | fi - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
+            "index": 1,
             "start_time": 1050,
             "end_time": 3750,
             "text": "f-i"
         },
         {
+            "index": 2,
             "start_time": 3874,
             "end_time": 5874,
             "text": "fi"
         },
         {
+            "index": 3,
             "start_time": 6326,
             "end_time": 8326,
             "text": "fila"
         },
         {
+            "index": 4,
             "start_time": 9009,
             "end_time": 11009,
             "text": "figuras"
         },
         {
+            "index": 5,
             "start_time": 11751,
             "end_time": 13751,
             "text": "filete"
         },
         {
+            "index": 6,
             "start_time": 14456,
             "end_time": 16456,
             "text": "fichas"

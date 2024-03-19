@@ -1,34 +1,40 @@
 ﻿{
     "video_id": "e0t894yQc5I",
     "title": "西班牙文發音 - cho 音節 | cho - sílaba",
-    "zh": 0,
+    "zh": 1,
     "json": [
         {
+            "index": 1,
             "start_time": 922,
             "end_time": 3622,
             "text": "ch-o"
         },
         {
+            "index": 2,
             "start_time": 3761,
             "end_time": 5761,
             "text": "cho"
         },
         {
+            "index": 3,
             "start_time": 6199,
             "end_time": 8199,
             "text": "chocolate"
         },
         {
+            "index": 4,
             "start_time": 8796,
             "end_time": 10796,
             "text": "corcho"
         },
         {
+            "index": 5,
             "start_time": 11132,
             "end_time": 13132,
             "text": "choza"
         },
         {
+            "index": 6,
             "start_time": 13556,
             "end_time": 15556,
             "text": "chorizo"
